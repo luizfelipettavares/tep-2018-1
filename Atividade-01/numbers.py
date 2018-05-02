@@ -1,4 +1,5 @@
 '''
+
 1. Numbers API
 2. Uma API para fatos interessantes sobre números.
 3. http://numbersapi.com/
@@ -17,6 +18,7 @@
 5. Suporta metodo GET
 6. Exemplo
 '''
+
 import requests
 
 print("Retorna um numero aleatorio, do tipo math, e um fato relacionado ao mesmo")
